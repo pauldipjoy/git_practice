@@ -1,5 +1,6 @@
 hello, My NAME IS DIPJOY PAUL ANTIK
 my 10th certification year 2011
 my 12th certification year 2013.
+text allignment is centered.
  
 
